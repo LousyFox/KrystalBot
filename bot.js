@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
- 
+ hello word
  
 app.get('/', function(request, response){ response.send(`Монитор активен. Локальный адрес: http://localhost:${port}`); });
 app.listen(port, () => console.log());
