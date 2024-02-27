@@ -7,4 +7,4 @@ app.listen(port, () => console.log());
 const Discord = require('discord.js');
 const client = new Discord.Client();
  
-client.login(process.env.MTIxMTQwMTc4Mjk0NTkxMDk1OA.GmaFyg.qtEPIWszGiCbASUFZcgXdIwaLLGtS1cO-qYyVg);
+client.login(process.env.MTIxMTQwMTc4Mjk0NTkxMDk1OA.GmaFyg.qtEPIWszGiCbASUFZcgXdIwaLLGtS1cO-qYyVg); 
